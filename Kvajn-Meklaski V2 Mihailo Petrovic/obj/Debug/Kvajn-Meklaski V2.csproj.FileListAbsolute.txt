@@ -1,0 +1,7 @@
+C:\Users\Pero\source\repos\Kvajn-Meklaski V2\bin\Debug\Kvajn-Meklaski V2.exe.config
+C:\Users\Pero\source\repos\Kvajn-Meklaski V2\bin\Debug\Kvajn-Meklaski V2.exe
+C:\Users\Pero\source\repos\Kvajn-Meklaski V2\bin\Debug\Kvajn-Meklaski V2.pdb
+C:\Users\Pero\source\repos\Kvajn-Meklaski V2\obj\Debug\Kvajn-Meklaski V2.csprojAssemblyReference.cache
+C:\Users\Pero\source\repos\Kvajn-Meklaski V2\obj\Debug\Kvajn-Meklaski V2.csproj.CoreCompileInputs.cache
+C:\Users\Pero\source\repos\Kvajn-Meklaski V2\obj\Debug\Kvajn-Meklaski V2.exe
+C:\Users\Pero\source\repos\Kvajn-Meklaski V2\obj\Debug\Kvajn-Meklaski V2.pdb
